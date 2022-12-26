@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Noobno1</h1>
 
-<h3 align="center">My name is Abdullah Shahid from Pakistan. Current I'm doing bachelors of computer science and freelancing on fiverr as a video editor</h3>
+<h3 align="center">I'm Abdullah Shahid from Pakistan. Currently I'm doing bachelors of Computer Science and freelancing on fiverr as a video editor</h3>
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/supermanbatm764?up_rollout=true)
 
