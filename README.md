@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah404" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20867572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20867572" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah404" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20867572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20867572" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/channel/UCyFqcP_zsi8z55bPXxhkqCw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noobno1551" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/noobno1_-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noobno1_-" height="30" width="40" /></a>
